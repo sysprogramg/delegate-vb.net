@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Clases
+</name>
+</assembly>
+<members>
+<member name="T:Clases.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Clases.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Clases.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Clases.MisClases.clsCarton.MarcarCasilla(System.Int32,System.Boolean,System.Int32@)">
+ <summary>
+ Funcion para marcar casilla del carton 
+ </summary>
+ <param name="pCol">Indica numero de columna sobre el que se hizo click</param>
+ <param name="pAccion">Indica si se tildo (1) o destildo(0)</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

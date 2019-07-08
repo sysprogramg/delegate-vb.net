@@ -1,0 +1,14 @@
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\bin\Debug\Bingo.xml
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.Form1.resources
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.Resources.resources
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.xml
+C:\Users\resviza\Desktop\net\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\sysprogram\Desktop\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\sysprogram\Desktop\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.xml
+C:\Users\sysprogram\Desktop\TrabajosPOO\Bingo\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
