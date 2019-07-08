@@ -1,7 +1,7 @@
 # Practicas delegate-event con VB.NET
 Clásico Juego `Bingo` creado en VB.NET para realizar practicas con `delegate-pattern`
 
-- El juego permite agregar jugadores de forma manual como también automática, indicando para este ultimo caso el numero de jugadores participantes.
+- El juego permite agregar jugadores de forma manual como también automática, indicando para este ultimo caso el numero de jugadores.
 - El numero máximo de jugadores es 15.
 - Para cada nuevo jugador se solicitara ingresar el nombre.
 - Los números `cantados` por la mesa pueden ser manual o automáticamente.
